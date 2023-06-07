@@ -1,1 +1,272 @@
+{
+    "urls": [
+        {
+            "url": "https://yydsys.top/duo", 
+            "name": "🏡应用多多家庭版"
+        }, 
+        {
+            "url": "https://yydsys.top/duo/x.json", 
+            "name": "🚀阿里扫码专线"
+        }, 
+        {
+            "url": "http://饭太硬.ga/tv", 
+            "name": "🚀饭太硬线路"
+        }, 
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖", 
+            "name": "🚀肥猫线路"
+        }, 
+        {
+            "url": "https://yydsys.top/duo/lm.json", 
+            "name": "🚀龙门线路"
+        }, 
+        {
+            "url": "http://tvbo.run.goorm.site/tangs.json", 
+            "name": "🚀唐三线路"
+        }, 
+        {
+            "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", 
+            "name": "🚀蜂蜜线路"
+        }, 
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR", 
+            "name": "🚀道长线路"
+        }, 
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json", 
+            "name": "🚀小苹果线路"
+        }, 
+        {
+            "url": "https://tvbox.cainisi.cf", 
+            "name": "🚀菜妮丝线路"
+        }, 
+        {
+            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json", 
+            "name": "🚀香雅情线路"
+        }, 
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json", 
+            "name": "🚀巧技线路"
+        }, 
+        {
+            "url": "http://101.34.67.237/config/1", 
+            "name": "🚀小雅线路"
+        }, 
+        {
+            "url": "http://home.jundie.top:81/top98.json", 
+            "name": "🚀俊佬线路"
+        }, 
+        {
+            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json", 
+            "name": "🚀运输车线路"
+        }, 
+             {
+            "url": "https://la.kstore.space/download/2883/0110.txt", 
+            "name": "🐹蚂蚁论坛线路"
+        }, 
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", 
+            "name": "🐹南风线路"
+        }, 
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", 
+            "name": "🐹云星日记"
+        }, 
+        {
+            "url": "https://369936.xyz/web119", 
+            "name": "🐹春风影视"
+        }, 
+        {
+            "url": "http://52bsj.vip:98/wuai", 
+            "name": "🐹吾爱线路"
+        }, 
+        {
+            "url": "https://源享家.ml/45127", 
+            "name": "🐹源享家线路"
+        }, 
+        {
+            "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json", 
+            "name": "🏡二哈"
+        }, 
+        {
+            "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json", 
+            "name": "🏡git自建"
+        }, 
+        {
+            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json", 
+            "name": "🏡心魔"
+        }, 
+ {
 
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json", 
+            "name": "🏡月光宝盒影视"
+        }, 
+{
+            "url": "http://miaotvs.cn/meow",
+            "name": "🐹喵影视线路"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json", 
+            "name": "🏡猫友"
+        },
+     {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/dym/master/master0511.json",
+      "name": "💯MAX线路"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/yyfx/main/yyfx.json",
+      "name": "♥️分享者线"
+    },
+    {
+      "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+      "name": "⭕小胡路线"
+    },
+     {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+      "name": "🌹荷城茶秀"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json",
+      "name": "🍀高天流云1"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "name": "🍀高天流云2"
+    },
+    {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "🚀吾爱线路1"
+    },
+        {
+      "url": "http://52bsj.vip:98/0805",
+      "name": "🚀吾爱线路2"
+    },
+        {
+      "url": "http://52bsj.vip:98/18dxwoai",
+      "name": "🚀吾爱在线"
+    },
+    {
+      "url": "http://52bsj.vip:98/cl",
+      "name": "🎁宝盒汇线"
+    },
+    {
+      "url": "http://9xi4o.tk/0725.json",
+      "name": "🎬云盘线路"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/dym/master/PRO.json",
+      "name": "🎁月光宝盒"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json",
+      "name": "🚚运输车"
+    },
+    {
+      "url": "https://weixine.net/ysc.json",
+      "name": "🚚运输车主线"
+    },
+    {
+      "url": "https://download.kstore.space/download/2863/01.txt",
+      "name": "👔潇洒"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/0820.json",
+      "name": "✳️gao20"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/0826.json",
+      "name": "✳️gao26"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/0827.json",
+      "name": "✳️gao27"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/0828.json",
+      "name": "✳️gao28"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/XYQ.json",
+      "name": "🅿️XYQ"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/js.json",
+      "name": "☯️道长"
+    },
+     {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "🧨技巧"
+    },
+    {
+      "url": "http://tvbo.run.goorm.site/tangs.json",
+      "name": "♣️唐三线路"
+    },
+ 
+    {
+      "url": "https://yydsys.top/duo/ali",
+      "name": "🅰️阿里精品专线"
+    },
+    {
+      "url": "https://yydsys.top/duo/lm.json",
+      "name": "🀄龙门线路"
+    },
+    {
+      "url": "https://la.kstore.space/download/2883/0110.txt",
+      "name": "🐜蚂蚁论坛线路"
+    },
+       {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
+      "name": "Ⓜ️M线路"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json",
+      "name": "Ⓜ️N线路"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
+      "name": "⛅星云线路"
+    },
+
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/68420/fl%E6%8E%A5%E5%8F%A3.txt?sign=yowqWMosWpA9ssTwrUNhZKsf_HE8J_RY2mOnY3YBGEw%3D%3A0",
+      "name": "🌟星河1"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/68422/%E9%A3%9E%E6%9C%BA3%20.txt?sign=XOk1BCFag1pL-xqE9sBExIcApSt_qGrVo7DLlV-FMDk%3D%3A0",
+      "name": "🌟星河2"
+    },
+    {
+      "url": "https://huhujunxx.neocities.org/AV.json",
+      "name": "♠️Huhujun线路"
+    },
+
+     {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/dxawi/0/main/0.json",
+      "name": "♈Ray"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/dc/main/json/111118.jsom",
+      "name": "♉浮力"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json",
+      "name": "♊浮力yyfxz1"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+      "name": "♋浮力yyfxz2"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json",
+      "name": "♌浮力yyfxz3"
+    },
+    {
+      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/9918.json",
+      "name": "♎gao29"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0",
+      "name": "♐辅助带飞"
+    }
+    ]
+}
