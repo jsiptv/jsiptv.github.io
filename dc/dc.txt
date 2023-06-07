@@ -234,39 +234,6 @@
     {
       "url": "http://52bsj.vip:81/api/v3/file/get/68422/%E9%A3%9E%E6%9C%BA3%20.txt?sign=XOk1BCFag1pL-xqE9sBExIcApSt_qGrVo7DLlV-FMDk%3D%3A0",
       "name": "🌟星河2"
-    },
-    {
-      "url": "https://huhujunxx.neocities.org/AV.json",
-      "name": "♠️Huhujun线路"
-    },
-
-     {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/dxawi/0/main/0.json",
-      "name": "♈Ray"
-    },
-    {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/dc/main/json/111118.jsom",
-      "name": "♉浮力"
-    },
-    {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json",
-      "name": "♊浮力yyfxz1"
-    },
-    {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
-      "name": "♋浮力yyfxz2"
-    },
-    {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json",
-      "name": "♌浮力yyfxz3"
-    },
-    {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jigedos/gao/master/9918.json",
-      "name": "♎gao29"
-    },
-    {
-      "url": "http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0",
-      "name": "♐辅助带飞"
     }
     ]
 }
