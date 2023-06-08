@@ -226,19 +226,6 @@
     {
       "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/cyao2q/files/master/n.json",
       "name": "Ⓜ️N线路"
-    },
-    {
-      "url": "https://git.iptv-cn.tk/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
-      "name": "⛅星云线路"
-    },
-
-    {
-      "url": "http://52bsj.vip:81/api/v3/file/get/68420/fl%E6%8E%A5%E5%8F%A3.txt?sign=yowqWMosWpA9ssTwrUNhZKsf_HE8J_RY2mOnY3YBGEw%3D%3A0",
-      "name": "🌟星河1"
-    },
-    {
-      "url": "http://52bsj.vip:81/api/v3/file/get/68422/%E9%A3%9E%E6%9C%BA3%20.txt?sign=XOk1BCFag1pL-xqE9sBExIcApSt_qGrVo7DLlV-FMDk%3D%3A0",
-      "name": "🌟星河2"
     }
     ]
 }
