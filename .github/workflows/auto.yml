@@ -8,5 +8,40 @@ on:
 
 env:
   TZ: Asia/Shanghai
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
 
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+- name: Update
+      run: |
+        # 酒店源
+        rm -f itvlist.txt && wget https://raw.githubusercontent.com/jsiptv/tv/main/https://github.com/jsiptv/tv/blob/main/itvlist.txt -O itvlist.txt
+        
+        # v6源
+        rm -f V6.txt && wget https://raw.githubusercontent.com/jsiptv/jsiptv.github.io/main/TV/v6.txt -O V6.txt
+       
+        
 
+        # 整合源
+        rm -f all.txt && touch all.txt
+        cat itvlist.txt >> all.txt
+        cat V6.txt >> all.txt
+    
+     - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "${{ steps.date.outputs.date }}"
+        git branch -D Files
+        git branch -m Files
+
+    - name: Push
+      run: git push -f origin Files  
