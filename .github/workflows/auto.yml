@@ -4,7 +4,9 @@ on:
     types: [started]
   schedule:
     - cron: 0,30 * * * *
-- name: Update
+jobs:
+    
+  - name: Update
       run: |
         # 酒店源
         rm -f itvlist.txt && wget https://raw.githubusercontent.com/jsiptv/tv/main/https://github.com/jsiptv/tv/blob/main/itvlist.txt -O itvlist.txt
