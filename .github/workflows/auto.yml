@@ -1,11 +1,9 @@
 name: Update
-
 on:
   watch:
     types: [started]
   schedule:
     - cron: 0,30 * * * *
-
 - name: Update
       run: |
         # 酒店源
