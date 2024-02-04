@@ -7,16 +7,11 @@ on:
 jobs:
     
   - name: Update
-      run: |
-        # 酒店源
+      run: 
         rm -f itvlist.txt && wget https://raw.githubusercontent.com/jsiptv/tv/main/https://github.com/jsiptv/tv/blob/main/itvlist.txt -O itvlist.txt
         
-        # v6源
         rm -f V6.txt && wget https://raw.githubusercontent.com/jsiptv/jsiptv.github.io/main/TV/v6.txt -O V6.txt
        
-        
-
-        # 整合源
         rm -f all.txt && touch all.txt
         cat itvlist.txt >> all.txt
         cat V6.txt >> all.txt
