@@ -17,16 +17,11 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Run auto.py
-        run: python auto.py
-      - name: 暂存提交
+      - name: Run auto.py and commit changes
         run: |
-          git config --global user.name 'jsiptv'
-          git config --global user.email '2654317003@qq.com'
-          export TZ='Asia/Shanghai'
+          python auto.py
+          git config --local user.email "2654317003@qq.com"
+          git config --local user.name "jsiptv"
           git add .
-          git commit -m "update" -a
-      - name: 推送
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "Automated commit from GitHub Action"
+          git push origin main
