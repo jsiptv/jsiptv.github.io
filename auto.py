@@ -22,7 +22,7 @@ with open('all.txt', 'w') as file:
     file.write(all_document_content)
 
 # 使用 PyGithub 库将 all.txt 文件提交到 GitHub 主分支
-g = Github("<YOUR_GITHUB_ACCESS_TOKEN>")
+g = Github("secrets.GITHUB_TOKEN")
 repo = g.get_repo("jsiptv/jsiptv.github.io")
 repo.create_file("all.txt", "commit message", all_document_content, branch="main")
 
