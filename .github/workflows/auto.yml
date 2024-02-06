@@ -1,30 +1,24 @@
-name: Python application
+name: Scheduled Workflow
+
 on:
-  push:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 0 * * *'  # 每天UTC时间的00:00触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 检查分支
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: 安装 Python 3.10
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          python-version: 3.10.4
+          python-version: 3.x
 
-      - name: 安装模块
-        run: |
-          pip install requests
-          pip install urllib3
-      - name: 生成json文件
-        run: |
-          export TZ='Asia/Shanghai'
-          python auto.py
+      - name: Run auto.py
+        run: python auto.py
       - name: 暂存提交
         run: |
           git config --global user.name 'jsiptv'
