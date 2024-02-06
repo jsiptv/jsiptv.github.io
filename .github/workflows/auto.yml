@@ -1,30 +1,38 @@
-name: Update
+name: Python application
 on:
-  watch:
-    types: [started]
+  push:
   schedule:
-    - cron: 0,30 * * * *
-jobs:
-    
-  - name: Update
-      run: 
-        rm -f itvlist.txt && wget https://raw.githubusercontent.com/jsiptv/tv/main/https://github.com/jsiptv/tv/blob/main/itvlist.txt -O itvlist.txt
-        
-        rm -f V6.txt && wget https://raw.githubusercontent.com/jsiptv/jsiptv.github.io/main/TV/v6.txt -O V6.txt
-       
-        rm -f all.txt && touch all.txt
-        cat itvlist.txt >> all.txt
-        cat V6.txt >> all.txt
-    
-     - name: Clean
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git checkout --orphan latest_branch
-        git add -A
-        git commit -am "${{ steps.date.outputs.date }}"
-        git branch -D Files
-        git branch -m Files
+    - cron: '0 21 * * *'
 
-    - name: Push
-      run: git push -f origin Files  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检查分支
+        uses: actions/checkout@v3
+
+      - name: 安装 Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10.4
+
+      - name: 安装模块
+        run: |
+          pip install requests
+          pip install urllib3
+      - name: 生成json文件
+        run: |
+          export TZ='Asia/Shanghai'
+          python autoUrl.py
+      - name: 暂存提交
+        run: |
+          git config --global user.name 'jsiptv'
+          git config --global user.email '2654317003@qq.com'
+          export TZ='Asia/Shanghai'
+          git add .
+          git commit -m "update" -a
+      - name: 推送
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
