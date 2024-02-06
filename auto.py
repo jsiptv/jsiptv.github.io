@@ -12,10 +12,9 @@ def merge_documents(urls, output_file):
 
 # 指定要获取的文档地址列表
 document_urls = [
-    'https://example.com/document1.txt',
-    'https://example.com/document2.txt',
-    'https://example.com/document3.txt'
-]
+    'https://git.iptv-cn.tk/https://raw.githubusercontent.com/jsiptv/jsiptv.github.io/main/TV/v6.txt',
+    'https://git.iptv-cn.tk/https://raw.githubusercontent.com/jsiptv/tv/main/itvlist.txt'
+   ]
 
 # 合并文档并保存为'all.txt'
 output_file = 'all.txt'
