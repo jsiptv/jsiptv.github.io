@@ -1,4 +1,4 @@
-name: Scheduled Workflow
+ame: Scheduled Workflow
 
 on:
   schedule:
@@ -17,11 +17,12 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Run auto.py and commit changes
+      - name: Run auto.py and copy files to main branch
         run: |
           python auto.py
-          git config --local user.email "2654317003@qq.com"
-          git config --local user.name "jsiptv"
-          git add .
-          git commit -m "Automated commit from GitHub Action"
+          cp all.txt $GITHUB_WORKSPACE/all.txt
+          cd $GITHUB_WORKSPACE
+          git checkout main
+          git add all.txt
+          git commit -m "Add generated file"
           git push origin main
