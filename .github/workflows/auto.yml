@@ -1,4 +1,4 @@
-ame: Scheduled Workflow
+name: Scheduled Workflow
 
 on:
   schedule:
@@ -17,12 +17,5 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Run auto.py and copy files to main branch
-        run: |
-          python auto.py
-          cp all.txt $GITHUB_WORKSPACE/all.txt
-          cd $GITHUB_WORKSPACE
-          git checkout main
-          git add all.txt
-          git commit -m "Add generated file"
-          git push origin main
+      - name: Run auto.py
+        run: python auto.py
