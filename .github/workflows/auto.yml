@@ -25,11 +25,11 @@ jobs:
 
           # 循环遍历文档地址列表，逐个获取文档内容并拼接到 all_document_content 中
           for url in document_urls:
-              curl -L "$url" >> all.txt
+              curl -L "$url" >> merged_doc.txt
               all_document_content += document_content + '\n'
 
           # 将合并后的文档内容写入到 merged_doc.txt 文件中
-          echo "$all_document_content" > all.txt
+          echo "$all_document_content" > merged_doc.txt
 
       - name: Commit changes
         run: |
