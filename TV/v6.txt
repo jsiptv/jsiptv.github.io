@@ -436,10 +436,15 @@ NewTV金牌综艺 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c
 咪咕视频 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw335987399_819129170/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 咪咕视频 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw336300127_-934579930/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 咪咕视频 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw359257769_1895127265/ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?icpid=3&RTS=1674380474&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-南京信息 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw471420022_-144346351/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1674380586&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京娱乐 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1756933853_327829486/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 南京新闻综合 4M720,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1745636891_-1860745242/ott.mobaibox.com/PLTV/3/224/3221228078/index.m3u8?icpid=3&RTS=1674386156&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 南京新闻综合 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+南京信息 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw471420022_-144346351/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1674380586&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京娱乐 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1756933853_327829486/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京十八 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw355334905_1195668462/ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京少儿 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355480831_-98150960/ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京影视 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355640161_-130488298/ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京教科 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1762440958_705316528/ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8?icpid=3&RTS=1674386172&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京生活 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355956085_-2041179711/ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 网络|综艺,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227539/1.m3u8
 网络|纪录,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227579/1.m3u8
 江苏|江苏交通广播,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227937/1.m3u8
@@ -602,11 +607,7 @@ NNM家庭理财 576,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1
 江苏影视 576,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571003773_1055968907/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏教育 576,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571163178_71306001/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏综艺 576,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571344065_739761579/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-南京十八 576,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw355334905_1195668462/ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京少儿 576,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355480831_-98150960/ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京影视 576,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355640161_-130488298/ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京教科 576,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1762440958_705316528/ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8?icpid=3&RTS=1674386172&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京生活 576,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355956085_-2041179711/ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+
 宿迁公共 576,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1572957279_351483144/ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8?icpid=3&RTS=1674385983&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 宿迁综合 576,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1573101310_555646390/ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8?icpid=3&RTS=1674385983&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 扬州1 576,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw1562921956_246831961/ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8?icpid=3&RTS=1674385973&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
