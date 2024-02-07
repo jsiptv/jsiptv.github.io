@@ -29,7 +29,7 @@ jobs:
               all_document_content += document_content + '\n'
 
           # 将合并后的文档内容写入到 merged_doc.txt 文件中
-          echo "$all_document_content" > allc.txt
+          echo "$all_document_content" > all.txt
 
       - name: Commit changes
         run: |
