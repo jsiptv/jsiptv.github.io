@@ -78,9 +78,9 @@ CCTV16-4K 25M2160,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw332
 CCTV16-4K 34M2160HDR,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 SiTV欢笑剧场 12M2160,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653121614_498192706/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1674379473&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV4K 12M2160,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3027752919_-1874130277/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1674378848&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-纯享4K 16M2160,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-纯享4K 16M2160,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443769612_-1188450915/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8?icpid=3&RTS=1674369674&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec27_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-纯享4K 25M2160HDR,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+纯享4K1 16M2160,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+纯享4K2 16M2160,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443769612_-1188450915/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8?icpid=3&RTS=1674369674&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec27_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+纯享4K3 25M2160HDR,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV8K 30M2160HDR,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-2135022099/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1674373571&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 4K修复 7M2160HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 凤凰中文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -392,8 +392,6 @@ CCTV高尔夫网球 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f45
 南京影视 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355640161_-130488298/ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 南京教科 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1762440958_705316528/ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8?icpid=3&RTS=1674386172&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 南京生活 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355956085_-2041179711/ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-
-
 上海纪实人文 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw561566041_-1017128366/ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 上海纪实人文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1558074042_116967467/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 北京冬奥纪实 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw561828427_-1362625921/ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
