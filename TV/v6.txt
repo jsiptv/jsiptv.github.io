@@ -383,6 +383,17 @@ CCTV高尔夫网球 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f45
 黑龙江卫视 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw516512633_-1915271837/ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8?icpid=3&RTS=1674380631&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 黑龙江卫视 8M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw516667270_434053295/ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8?icpid=3&RTS=1674380632&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 黑龙江卫视 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1754506897_714399677/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+南京新闻综合 4M720,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1745636891_-1860745242/ott.mobaibox.com/PLTV/3/224/3221228078/index.m3u8?icpid=3&RTS=1674386156&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+南京新闻综合 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+南京信息 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw471420022_-144346351/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1674380586&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京娱乐 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1756933853_327829486/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京十八 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw355334905_1195668462/ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京少儿 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355480831_-98150960/ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京影视 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355640161_-130488298/ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京教科 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1762440958_705316528/ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8?icpid=3&RTS=1674386172&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京生活 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355956085_-2041179711/ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+
+
 上海纪实人文 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw561566041_-1017128366/ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 上海纪实人文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1558074042_116967467/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 北京冬奥纪实 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw561828427_-1362625921/ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -418,15 +429,15 @@ NewTV金牌综艺 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c
 哒啵赛事 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw561250760_-677742974/ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 百姓生活 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 知否知否 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-未知 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw677754739_-1516035370/ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8?icpid=3&RTS=1674380793&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-未知 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-未知 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-未知 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-未知 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb23_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-未知 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw168567975_1917409784/ott.mobaibox.com/PLTV/3/224/3221228447/index.m3u8?icpid=3&RTS=1674393168&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-未知 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-未知 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-未知 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+未知1 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw677754739_-1516035370/ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8?icpid=3&RTS=1674380793&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+未知2 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+未知3 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+未知4 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+未知5 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb23_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+未知6 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw168567975_1917409784/ott.mobaibox.com/PLTV/3/224/3221228447/index.m3u8?icpid=3&RTS=1674393168&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+未知7 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+未知8 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+未知9 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 咪咕全民热练 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 咪咕怀旧剧场 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1562418169_1306835337/ott.mobaibox.com/PLTV/3/224/3221228120/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 咪咕视频 1080,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw336476395_712885226/ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -436,15 +447,7 @@ NewTV金牌综艺 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c
 咪咕视频 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw335987399_819129170/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 咪咕视频 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw336300127_-934579930/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 咪咕视频 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw359257769_1895127265/ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?icpid=3&RTS=1674380474&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-南京新闻综合 4M720,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1745636891_-1860745242/ott.mobaibox.com/PLTV/3/224/3221228078/index.m3u8?icpid=3&RTS=1674386156&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-南京新闻综合 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-南京信息 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw471420022_-144346351/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1674380586&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京娱乐 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1756933853_327829486/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京十八 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw355334905_1195668462/ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京少儿 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355480831_-98150960/ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京影视 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355640161_-130488298/ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-南京教科 1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1762440958_705316528/ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8?icpid=3&RTS=1674386172&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-南京生活 1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355956085_-2041179711/ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+
 网络|综艺,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227539/1.m3u8
 网络|纪录,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227579/1.m3u8
 江苏|江苏交通广播,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227937/1.m3u8
