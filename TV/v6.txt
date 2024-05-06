@@ -552,15 +552,9 @@ CCTV-17农业农村,http://tv.mushui.tk:13164/tv/Mobile/zj.php?url=http://hwltc.
 陕西卫视,http://tv.mushui.tk:13164/tv/Mobile/zj.php?url=http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8?fmt=ts2hls
 
 央视频,#genre#
-凤凰中文台,http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯台,http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港台,http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰中文台,http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯台,http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港台,http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰中文台,http://111.51.129.123/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯台,http://111.51.129.123/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港台,http://111.51.129.123/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰中文台,http://183.136.219.34/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯台,http://183.136.219.34/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港台,http://183.136.219.34/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 CCTV1,http://183.136.219.34/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://183.136.219.34/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3,http://183.136.219.34/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
