@@ -1487,7 +1487,48 @@ AnimalAdventureParkOfficial,http://polo.redrainl.site:8900/live.m3u8?c=86
 ExploreOceans,http://polo.redrainl.site:8900/live.m3u8?c=87
 TaiwanPlus,http://polo.redrainl.site:8900/live.m3u8?c=88
 寰宇新闻台湾台,http://polo.redrainl.site:8900/live.m3u8?c=89
-
-
+yt代理2(卡),#genre#
+TVBS新闻台,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1
+TVBS,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2
+镜新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=3
+中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6
+台视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=7
+三立新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9
+民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10
+Al Jazeera,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=13
+TRT World,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=16
+ANN News,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=17
+中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23
+Taiwan Plus,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=24
+寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26
+France 24,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=28
+CNA,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=29
+NHK World,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=30
+东森新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=32
+YTN News,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=33
 
 yt代理3,#genre#
+中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
+东森新闻,http://news.666.hz.cz:2086/live.m3u8?c=2
+不良林节点,http://news.666.hz.cz:2086/live.m3u8?c=3
+台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4
+TVBS,http://news.666.hz.cz:2086/live.m3u8?c=5
+三立新闻,http://news.666.hz.cz:2086/live.m3u8?c=6
+寰宇新闻,http://news.666.hz.cz:2086/live.m3u8?c=7
+凤凰资讯,http://news.666.hz.cz:2086/live.m3u8?c=8
+中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9
+镜新闻,http://news.666.hz.cz:2086/live.m3u8?c=10
+4K动物世界,http://news.666.hz.cz:2086/live.m3u8?c=11
+4K海洋世界,http://news.666.hz.cz:2086/live.m3u8?c=12
+
+寰宇新闻台,http://v.189910.xyz:8900/live.m3u8?c=1
+ABCNews,http://v.189910.xyz:8900/live.m3u8?c=2
+
+
+CNA,http://tv.otoou.com:8999/live.m3u8?c=1
+Lively Place,http://tv.otoou.com:8999/live.m3u8?c=2
+Lego Channel,http://tv.otoou.com:8999/live.m3u8?c=3
+Lego Channel,http://tv.otoou.com:8999/live.m3u8?c=4
+Bloomberg,http://tv.otoou.com:8999/live.m3u8?c=5
+Bloomberg,http://tv.otoou.com:8999/live.m3u8?c=6
+Bloomberg TV+,http://tv.otoou.com:8999/live.m3u8?c=7
